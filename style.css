@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+#test{
+    border: solid #f6f4df;
+}
+i{
+    border:  solid black;
+}
