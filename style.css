@@ -1,6 +1,8 @@
 html{
     scroll-behavior: smooth;
 }
+.rr{
+    font-family: "Almendra", serif;}
 #test{
     border: solid #f6f4df;
 }
